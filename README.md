@@ -1,5 +1,5 @@
 ## Hey. I'm Amren! 🤙
-##### UI|UX Designer
+##### UI & UX Designer 🎨 | Front-End Developer 💻
 
 <!--
 **MohamedAmren/MohamedAmren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
